@@ -175,7 +175,10 @@ For more advanced usage scenarios, please refer to:
 - Advanced Configuration
 - Custom Adapter Implementation
 
-## License
+## Acknowledgments
+
+This project is inspired by IronCore Labs' Cloaked AI library, which provides searchable encryption for vector embeddings. The original implementation can be found [here](https://github.com/IronCoreLabs/ironcore-alloy).
+
 
 ## License
 
