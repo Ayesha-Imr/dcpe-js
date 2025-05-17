@@ -1,6 +1,6 @@
 {
   "name": "dcpe-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Distance Comparison Preserving Encryption for secure searchable vector embeddings",
   "type": "module",
   "main": "dist/index.js",
