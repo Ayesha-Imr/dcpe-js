@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+lib/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# Test coverage
+coverage/
+
+# Output of documentation tools
+docs/
+
+# Local IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Compiled JS from TS
+*.js.map
+*.d.ts
