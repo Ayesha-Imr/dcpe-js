@@ -45,7 +45,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ayesha-Imr/DCPE-/tree/DCPE-js-package/dcpe-js"
+    "url": "https://github.com/Ayesha-Imr/dcpe-js.git"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
